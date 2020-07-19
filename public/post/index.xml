@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PaBa Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on PaBa Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2020 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science Lab @home - 1: Blog website</title>
+      <link>/2020/07/19/data-science-lab-home-1-blog-website/</link>
+      <pubDate>Sun, 19 Jul 2020 11:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/19/data-science-lab-home-1-blog-website/</guid>
+      <description>Website in 10 minutesTBD
+</description>
+    </item>
+    
+  </channel>
+</rss>
