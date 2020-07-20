@@ -1,0 +1,8 @@
+---
+title: 'Data Science Lab at home - 2: Test'
+author: PaBa
+date: '2020-07-20'
+slug: data-science-lab-at-home-2-test
+categories: []
+tags: []
+---
